@@ -1,26 +1,26 @@
-# 中英对照表（Glossary）
+# 中英对照表 (Glossary)
 
-学车 / 驾考 / 日常开车相关术语。
+学车 / 驾考 / 日常开车相关术语.
 
-## 操作（Maneuvers）
+## 操作 (Maneuvers)
 
 | 中文 | English | 备注 |
 | --- | --- | --- |
 | 起步 | Pull out / Start moving | 从停车状态驶出 |
-| 路口转弯 | Intersection turn / Turning | T 字、十字路口 |
+| 路口转弯 | Intersection turn / Turning | T 字; 十字路口 |
 | 路边停车 | Pull over | 临时靠边停 |
 | 平行停车 | Parallel parking | 路考必考 |
 | 倒车入库 | Back into a spot / Reverse parking | |
 | 三点掉头 | Three-point turn / K-turn | 路太窄不能 U-turn 时 |
 | 调头 | U-turn | |
 | 变道 | Change lanes / Lane change | |
-| 并道 | Merge | 上高速、入主路 |
+| 并道 | Merge | 上高速; 入主路 |
 | 倒车 | Reverse / Back up | |
 | 加速 | Accelerate / Speed up | |
 | 减速 | Decelerate / Slow down | |
 | 礼让 | Yield | 给行人/对向车 |
 
-## 档位（Gears）
+## 档位 (Gears)
 
 | 标志 | 中文 | English |
 | --- | --- | --- |
@@ -30,14 +30,14 @@
 | `D` | 行驶档 | Drive |
 | `L` | 低速档 | Low |
 
-## 车的部件（Car Parts）
+## 车的部件 (Car Parts)
 
 | 中文 | English |
 | --- | --- |
 | 方向盘 | Steering wheel |
 | 转向灯 | Turn signal / Blinker |
-| 后视镜（车内中间） | Rearview mirror |
-| 后视镜（左右两侧） | Side mirror / Wing mirror |
+| 后视镜 (车内中间) | Rearview mirror |
+| 后视镜 (左右两侧) | Side mirror / Wing mirror |
 | 盲区 | Blind spot |
 | 刹车踏板 | Brake (pedal) |
 | 油门踏板 | Gas pedal / Accelerator |
@@ -52,7 +52,7 @@
 | 安全带 | Seatbelt |
 | 副驾驶座 | Passenger seat |
 
-## 标志与道路（Signs & Road）
+## 标志与道路 (Signs & Road)
 
 | 中文 | English | 备注 |
 | --- | --- | --- |
@@ -65,14 +65,14 @@
 | 限速 | Speed Limit | |
 | 校车 | School bus | 闪红灯时双向都要停 |
 | 路缘 / 马路牙子 | Curb | |
-| 人行道（斑马线） | Crosswalk | |
+| 人行道 (斑马线) | Crosswalk | |
 | 人行步道 | Sidewalk | |
 | 红绿灯 | Traffic light / Signal | |
-| 双黄线 | Double yellow line | 不可压、不可越 |
+| 双黄线 | Double yellow line | 不可压; 不可越 |
 | 单黄实线 | Single yellow line | |
 | 白色虚线 | White dashed line | 可变道 |
 | 中央分隔带 | Median | |
-| 转盘 / 环岛 | Rotary | **麻州本地叫 rotary**（其他州 roundabout） |
+| 转盘 / 环岛 | Rotary | **麻州本地叫 rotary** (其他州 roundabout) |
 | 立交桥 | Overpass / Interchange | |
 | 高速公路 | Highway / Interstate | I-90, I-93 等 |
 | 主路 / 辅路 | Main road / Side street | |
@@ -80,7 +80,7 @@
 | 出口 | Exit | |
 | 收费站 | Toll booth / Toll plaza | MA 用 EZ-Pass 电子收费 |
 
-## 考试与驾照（Test & Licensing）
+## 考试与驾照 (Test & Licensing)
 
 | 中文 | English | 备注 |
 | --- | --- | --- |
@@ -95,7 +95,7 @@
 | 车辆登记 | Vehicle registration | |
 | 保险 | Insurance | 路考时车主必须有保险 |
 
-## 行为 / 教练用语（Driving Actions & Instructor Phrases）
+## 行为 / 教练用语 (Driving Actions & Instructor Phrases)
 
 | 中文 | English |
 | --- | --- |
@@ -115,7 +115,7 @@
 | 跟车太近 | Tailgating |
 | 让行人先过 | Let the pedestrian go first |
 
-## 人称（People）
+## 人称 (People)
 
 | 中文 | English |
 | --- | --- |

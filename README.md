@@ -4,7 +4,7 @@
 
 ## 关于
 
-记录在波士顿 (麻州) 从零开始学车、备考、路考的全过程, 以及日常驾驶中遇到的问题和经验.
+记录在波士顿 (麻州) 从零开始学车; 备考; 路考的全过程, 以及日常驾驶中遇到的问题和经验.
 
 ## 小技巧
 
@@ -12,7 +12,7 @@
 
 所有操作考点都可以归到两类, 用口诀记住操作.
 
-#### A. 静止口诀 (车没动起来时: 起步、换方向、变档前的检查)
+#### A. 静止口诀 (车没动起来时: 起步; 换方向; 变档前的检查)
 
 1. 档位
 2. 方向盘
@@ -38,7 +38,7 @@
 
 | 类型 | 看哪边 |
 | --- | --- |
-| 横穿马路 (三点掉头、U-turn、出停车场穿过整条路) | 两侧都有来车 → **左右都看** |
+| 横穿马路 (三点掉头; U-turn; 出停车场穿过整条路) | 两侧都有来车 → **左右都看** |
 | 沿车道汇入 / 转弯 / 倒车 | 你的车体 (车头) 要侵入的空间 = 别人正常行驶可能撞你的空间 → **车头摆向那一侧** |
 
 - **前进时**: 车头摆向 = 方向盘方向
@@ -53,12 +53,12 @@
 
 ## 通用 / 参考
 
-- [通用原则 (General Principles)](./notes/general-principles.md) — 双手姿势、检查顺序、刹车换档等贯穿所有操作的规则; 以及路考 vs 真实生活、学车建议等
-- [中英对照表 (Glossary)](./notes/glossary.md) — 学车 / 驾考 / 日常开车术语
+- [通用原则 (General Principles)](./notes/general-principles.md): 双手姿势; 检查顺序; 刹车换档等贯穿所有操作的规则; 以及路考 vs 真实生活; 学车建议等
+- [中英对照表 (Glossary)](./notes/glossary.md): 学车 / 驾考 / 日常开车术语
 
 ## 资源
 
-- [Massachusetts RMV](https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles) — 麻州机动车管理局
+- [Massachusetts RMV](https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles): 麻州机动车管理局
 - [Driver's Manual (官方驾驶手册)](https://www.mass.gov/lists/rmv-drivers-manuals)
 
 ## License
