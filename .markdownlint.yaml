@@ -1,8 +1,11 @@
 # markdownlint configuration
+# MD007: 嵌套列表用 4 个空格缩进
 # MD013: line-length disabled — 中文段落整段一行更易读
 # MD024: 允许不同父级标题下的同名子标题（如多个 "### 教练强调"）
 # MD033: no-inline-html disabled — 偶尔会用 <br> / <ins>
 # MD060: disabled — CJK 字符在表格中的列宽计算与该规则不兼容
+MD007:
+  indent: 4
 MD013: false
 MD024:
   siblings_only: true
