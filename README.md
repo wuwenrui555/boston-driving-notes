@@ -19,8 +19,7 @@
 
 ### 通用 / 参考
 
-- [通用原则（General Principles）](./notes/general-principles.md) — 双手姿势、检查顺序、刹车换档等贯穿所有操作的规则
-- [路考应试技巧（Road Test Tips）](./notes/road-test-tips.md) — 必做事项、常见扣分点、应试策略
+- [通用原则（General Principles）](./notes/general-principles.md) — 双手姿势、检查顺序、刹车换档等贯穿所有操作的规则；以及路考 vs 真实生活、学车建议等
 - [中英对照表（Glossary）](./notes/glossary.md) — 学车 / 驾考 / 日常开车术语
 
 ## 资源
