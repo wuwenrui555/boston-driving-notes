@@ -26,8 +26,6 @@
 
 > 教练原话："It's the first look for me, for professionals, if you're driving or not."
 
-视觉化建议：YouTube 搜 `hand over hand steering technique driving test`，1-2 分钟的演示视频比文字直观。
-
 ## 两个 5 要素口诀
 
 所有操作都可以归到两类。每个具体操作的笔记里都按对应口诀列出 1-5 步具体内容；某项不需要时用 `-` 占位。
