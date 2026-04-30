@@ -16,7 +16,6 @@
 - [路边停车（Pull Over）](./notes/pull-over.md)
 - [平行停车（Parallel Parking）](./notes/parallel-parking.md)
 - [三点掉头（Three-Point Turn）](./notes/three-point-turn.md)
-- [盲区参考（Blind Spot Reference）](./notes/blind-spot.md)
 
 ### 通用 / 参考
 
