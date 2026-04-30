@@ -57,7 +57,7 @@
 
 - 路考时停下来调整**不会直接扣分**——不要怕调整
 - 一次到位的人很少，监考官知道
-- 调整流程见 [parallel-parking](./parallel-parking.md#调整流程)
+- 调整流程见 [parallel-parking](./parallel-parking.md#调整)
 
 ### 路考 vs 真实生活
 
