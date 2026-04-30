@@ -8,15 +8,15 @@
 
 ## 目录
 
-按操作组织。每一项链接到对应文件夹/文件。
+按操作组织。
 
 ### 操作（Maneuvers）
 
-- [路口转弯（Intersection Turn）](./notes/intersection-turn/README.md)
-- [路边停车（Pull Over）](./notes/pull-over/README.md)
-- [平行停车（Parallel Parking）](./notes/parallel-parking/README.md)
-- [三点掉头（Three-Point Turn）](./notes/three-point-turn/README.md)
-- [盲区参考（Blind Spot Reference）](./notes/blind-spot/README.md)
+- [路口转弯（Intersection Turn）](./notes/intersection-turn.md)
+- [路边停车（Pull Over）](./notes/pull-over.md)
+- [平行停车（Parallel Parking）](./notes/parallel-parking.md)
+- [三点掉头（Three-Point Turn）](./notes/three-point-turn.md)
+- [盲区参考（Blind Spot Reference）](./notes/blind-spot.md)
 
 ### 通用 / 参考
 
