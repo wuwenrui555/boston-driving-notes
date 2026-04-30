@@ -13,10 +13,9 @@
 ### 操作（Maneuvers）
 
 - [路口转弯（Intersection Turn）](./notes/intersection-turn.md)
-- [路边停车（Pull Over）](./notes/pull-over.md)
+- [路边停车序列（Pull Over → Back Up → Pull Out）](./notes/pull-over.md)
 - [平行停车（Parallel Parking）](./notes/parallel-parking.md)
 - [三点掉头（Three-Point Turn）](./notes/three-point-turn.md)
-- [后退（Back Up）](./notes/back-up.md)
 
 ### 通用 / 参考
 
