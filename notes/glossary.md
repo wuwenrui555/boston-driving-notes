@@ -7,14 +7,14 @@
 | 中文 | English | 备注 |
 | --- | --- | --- |
 | 起步 | Pull out / Start moving | 从停车状态驶出 |
-| 路口转弯 | Intersection turn / Turning | T 字; 十字路口 |
+| 路口转弯 | Intersection turn / Turning | T 字, 十字路口 |
 | 路边停车 | Pull over | 临时靠边停 |
 | 平行停车 | Parallel parking | 路考必考 |
 | 倒车入库 | Back into a spot / Reverse parking | |
 | 三点掉头 | Three-point turn / K-turn | 路太窄不能 U-turn 时 |
 | 调头 | U-turn | |
 | 变道 | Change lanes / Lane change | |
-| 并道 | Merge | 上高速; 入主路 |
+| 并道 | Merge | 上高速, 入主路 |
 | 倒车 | Reverse / Back up | |
 | 加速 | Accelerate / Speed up | |
 | 减速 | Decelerate / Slow down | |
@@ -68,7 +68,7 @@
 | 人行道 (斑马线) | Crosswalk | |
 | 人行步道 | Sidewalk | |
 | 红绿灯 | Traffic light / Signal | |
-| 双黄线 | Double yellow line | 不可压; 不可越 |
+| 双黄线 | Double yellow line | 不可压, 不可越 |
 | 单黄实线 | Single yellow line | |
 | 白色虚线 | White dashed line | 可变道 |
 | 中央分隔带 | Median | |
