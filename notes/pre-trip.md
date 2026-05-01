@@ -18,18 +18,22 @@
 
 监考官会随机指几个, 让你**说出在哪里 + 操作给他看**. 常考的:
 
-- 转向灯 (turn signal)
-- 危险警告灯 / 双闪 (hazard lights)
-- 雨刷 (wipers)
-- 前挡风除雾 (front defroster / windshield defrost)
-- 后挡风除雾 (rear defroster)
-- 大灯 (headlights)
-- 远光灯 (high beams)
-- 喇叭 (horn)
-- 手刹 / 驻车制动 (parking brake / e-brake)
-- 安全带 (seatbelt)
+| 标志 | 中文 | English |
+| --- | --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/A16_Turn_signals.svg" width="50" alt="turn signal" /> | 转向灯 (左 / 右) | Turn signal / Blinker |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/A19_Hazard_warning.svg" width="50" alt="hazard" /> | 危险警告灯 (双闪) | Hazard lights |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/ISO_7000_-_Ref-No_0087.svg" width="50" alt="wipers" /> | 雨刷 | Wipers |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Defrost_vent_indicator_icon_graphic.svg" width="50" alt="defrost" /> | 前挡风除雾 | Windshield defrost |
+| (类似前挡风, 但矩形是后窗形, 内部带横线代表加热条) | 后挡风除雾 | Rear defrost |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/A02_Low_Beam_Indicator.svg" width="50" alt="low beam" /> | 大灯 / 近光灯 | Headlights / Low beams |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/A01_High_Beam_Indicator.svg" width="50" alt="high beam" /> | 远光灯 | High beams |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/ISO_7000_-_Ref-No_0244.svg" width="50" alt="horn" /> | 喇叭 (方向盘中央按压) | Horn |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/B02_Parking_brake_control.svg" width="50" alt="parking brake" /> | 手刹 / 驻车制动 | Parking brake / E-brake |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Seatbelt.svg" width="50" alt="seatbelt" /> | 安全带 | Seatbelt |
 
 > ⚠️ 考前**自己车里都摸一遍**, 确认每个按钮在哪. 租车 / 借车考试**一定要提前熟悉**.
+>
+> 图标来自 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Dashboard_SVG_icons) (ISO 7000 / 标准车载符号).
 
 ## 3. 上下坡靠路牙子的方向盘 (Hill Parking)
 
@@ -41,15 +45,10 @@ MA 路考必考点. 规则:
 | **下坡 + 有路牙子** | 向**右**打 (朝向路牙) | 车前溜 + 方向盘右 → **车头向右**, 右前轮抵住路牙 |
 | **任何坡度 + 没路牙子** | 向**右**打 (朝向路边) | 不管前溜还是后溜, 车都偏向右侧, 滑向草地 / 路肩, 不会滑入马路 |
 
-> 关键: 方向盘控制的是**前轮**, 所以无论上坡下坡, 抵住路牙的都是**右前轮** (车停右路缘时).
-
-英文口诀: **"Up-Up-Away, Down-Down-Towards"**
-
-- Up-hill + curb: turn wheels **away** from curb
-- Down-hill + curb: turn wheels **towards** curb
+记忆: 车要滑 → 我让它滑去安全的地方 (有 curb → 撞 curb, 没 curb → 滑出路面)
 
 完成后还要做:
 
 1. 拉**手刹** (parking brake)
 2. 挂 **`P`** 档
-3. 松脚刹 (检查车有没有动, 如果动了说明方向盘打错了)
+3. 松脚刹
