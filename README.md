@@ -46,6 +46,7 @@
 
 ## 考点
 
+- [Pre-Trip 考前检查 (手势 / 车内控制 / 上下坡停车)](./notes/pre-trip.md)
 - [路口转弯 (Intersection Turn)](./notes/intersection-turn.md)
 - [路边停车序列 (Pull Over → Back Up → Pull Out)](./notes/pull-over.md)
 - [平行停车 (Parallel Parking)](./notes/parallel-parking.md)
