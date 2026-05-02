@@ -47,16 +47,10 @@
 
 - [Pre-Trip 考前检查 (手势 / 车内控制 / 上下坡停车)](./notes/pre-trip.md)
 - [路口转弯 (Intersection Turn)](./notes/intersection-turn.md)
-- [信号灯路口 (Traffic Signals)](./notes/traffic-signals.md)
+- [行车规则与信号 (Rules of the Road)](./notes/rules-of-the-road.md): 信号灯与路口规则, 速度控制, 跟车距离, 学校区与校车
 - [路边停车序列 (Pull Over → Back Up → Pull Out)](./notes/pull-over.md)
 - [平行停车 (Parallel Parking)](./notes/parallel-parking.md)
 - [三点掉头 (Three-Point Turn)](./notes/three-point-turn.md)
-
-## 行车规则
-
-- [速度控制 (Speed Control)](./notes/speed-control.md)
-- [跟车距离 (Following Distance)](./notes/following-distance.md)
-- [学校区与校车 (School Zones & Bus)](./notes/school-zones-bus.md)
 
 ## 通用 / 参考
 
