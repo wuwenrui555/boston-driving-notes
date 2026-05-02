@@ -99,8 +99,8 @@
 
 | 中文 | English |
 | --- | --- |
-| 踩刹车 | Press / Step on the brake |
-| 松刹车 | Release the brake / Let off the brake |
+| 踩脚刹 | Press / Step on the brake |
+| 松脚刹 | Release the brake / Let off the brake |
 | 踩油门 | Press the gas / Hit the gas |
 | 松油门 | Let off the gas / Ease off |
 | 打转向灯 | Turn on the signal / Signal |
