@@ -32,7 +32,7 @@
 4. 后退: 短距离直线后退, 路考一般要求倒约 30 feet (10 m).
    - 右肩回头看后车窗
    - 右手放副驾驶座椅, 左手放方向盘 12 点位置 (方便调整)
-   - 以回头看后方为主, 同时配合后视镜观察 (教练建议不要太明显地转去看镜子, 用余光带一下即可)
+   - 全程头要看向后方, 不要明显地转去看镜子或前方 (教练建议仅用余光看一眼即可)
    - 松刹车后退 → 到位置后踩刹车
    - `P` 档 → 手刹 → 松刹车
 
@@ -48,10 +48,5 @@
 
 ## 官网要求
 
+- 后退前, 先看后视镜, 并左右回头确认周围安全
 - 从路边重新驶出时, 要先等行车道上的车辆通过, 再打灯并缓慢并回车流
-
-官网原文摘录:
-
-> "When you pull away from the curb, you must wait for vehicles in the travel lane to pass."
->
-> "You must then signal that you are pulling out and move slowly into traffic."
