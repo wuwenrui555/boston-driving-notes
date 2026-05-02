@@ -55,7 +55,7 @@
 ## 通用 / 参考
 
 - [MA 路考概览](./notes/road-test-overview.md): 按评分类别索引所有考点和对应笔记
-- [通用原则 (General Principles)](./notes/general-principles.md): 双手姿势, 检查顺序, 脚刹换档等贯穿所有操作的规则; 以及路考 vs 真实生活, 学车建议等
+- [驾驶习惯与提示 (Driving Habits & Tips)](./notes/driving-habits-and-tips.md): 双手姿势, 检查顺序, 脚刹换档, 观察习惯, 以及路考 vs 真实生活, 学车建议等
 - [中英对照表 (Glossary)](./notes/glossary.md): 学车 / 驾考 / 日常开车术语
 
 ## 资源
