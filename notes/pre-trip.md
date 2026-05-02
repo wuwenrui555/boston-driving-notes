@@ -20,16 +20,15 @@
 
 | 标志 | 中文 | English |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/A16_Turn_signals.svg" width="50" alt="turn signal" /> | 转向灯 (左 / 右) | Turn signal / Blinker |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/A19_Hazard_warning.svg" width="50" alt="hazard" /> | 危险警告灯 (双闪) | Hazard lights |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/ISO_7000_-_Ref-No_0087.svg" width="50" alt="wipers" /> | 雨刷 | Wipers |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Defrost_vent_indicator_icon_graphic.svg" width="50" alt="defrost" /> | 前挡风除雾 | Windshield defrost |
-| (类似前挡风, 但矩形是后窗形, 内部带横线代表加热条) | 后挡风除雾 | Rear defrost |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/A02_Low_Beam_Indicator.svg" width="50" alt="low beam" /> | 大灯 / 近光灯 | Headlights / Low beams |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/A01_High_Beam_Indicator.svg" width="50" alt="high beam" /> | 远光灯 | High beams |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/ISO_7000_-_Ref-No_0244.svg" width="50" alt="horn" /> | 喇叭 (方向盘中央按压) | Horn |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/B02_Parking_brake_control.svg" width="50" alt="parking brake" /> | 手刹 / 驻车制动 | Parking brake / E-brake |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Seatbelt.svg" width="50" alt="seatbelt" /> | 安全带 | Seatbelt |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0084.svg" width="50" alt="turn signal" /> | 转向灯 (左 / 右) | Turn signal / Blinker |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0085.svg" width="50" alt="hazard" /> | 危险警告灯 (双闪) | Hazard lights |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0087.svg" width="50" alt="wipers" /> | 雨刷 | Wipers |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0635B.svg" width="50" alt="front defrost" /> | 前挡风除雾 | Windshield defrost |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0636B.svg" width="50" alt="rear defrost" /> | 后挡风除雾 | Rear defrost |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0083.svg" width="50" alt="low beam" /> | 近光灯 / 大灯 | Low beams / Headlights |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0082.svg" width="50" alt="high beam" /> | 远光灯 | High beams |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0244.svg" width="50" alt="horn" /> | 喇叭 (方向盘中央按压) | Horn |
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/ISO_7000_-_Ref-No_0238.svg" width="50" alt="parking brake" /> | 手刹 / 驻车制动 | Parking brake / E-brake |
 
 > ⚠️ 考前**自己车里都摸一遍**, 确认每个按钮在哪. 租车 / 借车考试**一定要提前熟悉**.
 >
