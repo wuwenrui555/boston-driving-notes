@@ -1,6 +1,6 @@
 # Boston Driving Notes
 
-欣欣宝在波士顿学车的笔记.
+欣欣宝 (@zhaozhangxin) 在波士顿学车的笔记.
 
 ## 关于
 
