@@ -9,7 +9,7 @@
 先看 [Pre-Trip 考前检查](./pre-trip.md):
 
 - 手势 (left turn / right turn / stop)
-- 车内控制 (signals / wipers / defrost / lights / horn / brake)
+- 车内控制 (signals / wipers / defrost / lights / horn / parking brake)
 - 上下坡靠路牙子方向盘
 
 ## 2. 基本操控
