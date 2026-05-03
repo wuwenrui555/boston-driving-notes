@@ -47,7 +47,6 @@
 
 - [Pre-Trip 考前检查 (手势 / 车内控制 / 上下坡停车)](./notes/pre-trip.md)
 - [路口转弯 (Intersection Turn)](./notes/intersection-turn.md)
-- [行车规则与信号 (Rules of the Road)](./notes/rules-of-the-road.md): 信号灯与路口规则, 速度控制, 跟车距离, 学校区与校车
 - [路边停车序列 (Pull Over → Back Up → Pull Out)](./notes/pull-over.md)
 - [平行停车 (Parallel Parking)](./notes/parallel-parking.md)
 - [三点掉头 (Three-Point Turn)](./notes/three-point-turn.md)
@@ -55,6 +54,7 @@
 ## 通用 / 参考
 
 - [MA 路考概览](./notes/road-test-overview.md): 按评分类别索引所有考点和对应笔记
+- [行车规则与信号 (Rules of the Road)](./notes/rules-of-the-road.md): 信号灯, 限速, 跟车距离, 学校区与校车规则
 - [驾驶习惯与提示 (Driving Habits & Tips)](./notes/driving-habits-and-tips.md): 双手姿势, 检查顺序, 脚刹换档, 观察习惯, 以及路考 vs 真实生活, 学车建议等
 - [中英对照表 (Glossary)](./notes/glossary.md): 学车 / 驾考 / 日常开车术语
 
